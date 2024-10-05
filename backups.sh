@@ -10,4 +10,7 @@ cp /etc/vsftpd.conf /bin
 cp /etc/vsftpd.conf /media
 cp /etc/vsftpd.conf /var
 
+cp /etc/ssh /media
+
+
 chattr +i /files/Seabiscuit.jpg
